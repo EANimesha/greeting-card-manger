@@ -1,0 +1,3 @@
+# Project exclude paths
+/org.wso2.carbon.greeting.card.producer/target/
+/WSO2 Carbon-Greeting Card Consumer/target/
